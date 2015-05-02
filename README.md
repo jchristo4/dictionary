@@ -1,3 +1,1 @@
-# dictionary
-
-AngularJS App
+# dictionary app in Angular JS
